@@ -404,10 +404,11 @@ body {
 }
 
 .pokemon-img {
-  width: 180px;
-  height: 180px;
+  width: 220px;
+  height: 220px;
   object-fit: contain;
-  margin: -60px auto 12px;
-  filter: drop-shadow(0 5px 15px rgba(0,0,0,0.1));
+  display: block;
+  margin: 0 auto 16px;
+  filter: drop-shadow(0 5px 15px rgba(0,0,0,0.15));
 }
 </style>
